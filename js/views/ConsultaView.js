@@ -20,7 +20,7 @@ System.register(["./View"], function (exports_1, context_1) {
           <h5>Perder peso</h5>
           <p class="card-text">
             <span class="display-4 font-weight-bold">
-              ${(model) ? parseFloat(model.calorias) - 500 : 0}
+              ${(model) ? parseFloat(model.calorias) - 350 : 0}
             </span>
             calorias
           </p>    
